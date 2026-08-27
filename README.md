@@ -1,14 +1,14 @@
 # Francisco de Asís López Moreno
 
-**Energy Engineer | Energy Efficiency & BESS Optimization | Industrial Process Digitalization**
+**Energy Engineer**
 
-Energy Engineer graduated from the University of Seville (ETSI), specialized in Energy Saving & Efficiency, mathematical optimization, and industrial process digitalization. I combine advanced technical modeling, industrial time-series analysis, and the development of custom automation pipelines, dashboards, and web platforms using Python and modern web technologies.
+Energy Engineer, specialized in Energy Saving & Efficiency, mathematical optimization, and industrial process digitalization. I combine advanced technical modeling, industrial time-series analysis, and the development of custom automation pipelines, dashboards, and web platforms using Python and modern web technologies.
 
 ---
 
 ### 🚀 Featured Projects
 
-- **BESS Simulation & Techno-Economic Optimization**: 
+- **BESS Simulation & Techno-Economic Optimization ([Live Demo](https://optbess-frontend.onrender.com))**: 
   - 8,760-hour dispatch co-optimization using the **HiGHS** linear programming solver for day-ahead/spot arbitrage, ancillary services (FCR, aFRR), and capacity mechanisms (Standalone and Solar+BESS).
   - Electrochemical degradation modeling (LFP/NMC aging, cycling & DoD), curtailment mitigation, and risk analysis via Monte Carlo simulations (P10/P50/P90).
   - Automated generation of executive reporting, 2D Tornado sensitivity analysis, and structured **financial models exported directly to Excel**.
@@ -36,16 +36,7 @@ Energy Engineer graduated from the University of Seville (ETSI), specialized in 
 
 ---
 
-### 🎓 Education & Experience
-
-- **B.Sc. in Energy Engineering (Major in Energy Saving & Efficiency)** — University of Seville (ETSI) *(2021 – 2026)*
-- **Erasmus Academic Stay** — Università Degli Studi Della Tuscia, Italy *(2025 – 2026)*
-- **Process and R&D Engineer** — AGR Biogas *(2026)*
-
----
-
 ### 📫 Connect with Me
 
 - **Location:** Seville, Spain
-- **Email:** [fcurrolopez@gmail.com](mailto:fcurrolopez@gmail.com)
 - **LinkedIn:** [linkedin.com/in/francisco-de-asís-lópez-moreno](https://www.linkedin.com/in/francisco-de-as%C3%ADs-l%C3%B3pez-moreno)
