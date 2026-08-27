@@ -1,4 +1,4 @@
-# Francisco de Asís López Moreno 👋
+# Francisco de Asís López Moreno
 
 **Energy Engineer | Energy Efficiency & BESS Optimization | Industrial Process Digitalization**
 
