@@ -16,6 +16,7 @@ Energy Engineer, specialized in Energy Saving & Efficiency, mathematical optimiz
 - **Induction Motor Parameter Estimation (Bachelor's Thesis)**:
   - Implementation of the Guimarães statistical formulation and parameter estimation optimization for induction motors using custom-built **Genetic Algorithms (GA)** in Python.
   - Interactive analytical dashboards overcoming traditional model margins of error.
+  - **Repository & Resources:** [GitHub Repo](https://github.com/fralopmor-arch/tfg-presentacion-guimaraes) | [Interactive Streamlit App](https://tfg-presentacion-guimaraes.streamlit.app/) | [Thesis Report (PDF)](https://github.com/fralopmor-arch/tfg-presentacion-guimaraes/blob/main/Memoria-Francisco-de-As%C3%ADs-L%C3%B3pez-Moreno-22.07.pdf)
 
 - **Data Engineering & SCADA Automation (AGR Biogas)**:
   - Python-based ETL pipelines for automated ingestion, cleansing, and processing of industrial SCADA time series and tank systems.
